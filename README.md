@@ -1,4 +1,4 @@
-# SNHU-Computer-Science-Portfolio
+# SNHU Computer Science Portfolio
 
 # CS-210 Project
 
