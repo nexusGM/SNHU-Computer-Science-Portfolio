@@ -1,0 +1,4 @@
+\\apporto.com\dfs\SNHU\USERS\ctepe_snhu\Documents\Work\CS210\CS210_Project_Three_CornerGrocer\Release\CS210_Project_Three_CornerGrocer.exe
+\\apporto.com\dfs\SNHU\USERS\ctepe_snhu\Documents\Work\CS210\Project_Templates\CS210_Project_Three_CornerGrocer\Release\CS210_Project_Three_CornerGrocer.exe
+C:\Users\matth\OneDrive\Desktop\CS210_Project_Three_CornerGrocer\Release\CS210_Project_Three_CornerGrocer.exe
+U:\Week 7\CS210_Project_Three_CornerGrocer\CS210_Project_Three_CornerGrocer\Release\CS210_Project_Three_CornerGrocer.exe
