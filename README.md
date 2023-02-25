@@ -1,7 +1,7 @@
 # SNHU Computer Science Portfolio
 ## Matthew Tyson
 
-### CS-250 Software Developement Lifcycle
+### CS-250 Software Developement Lifecycle
 #### Sprint Review and Retrospective
 
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
