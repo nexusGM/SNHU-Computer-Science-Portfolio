@@ -15,45 +15,40 @@
   - Being a good team member in software development involves many different qualities and skills. Effective communication, collaboration, and problem-solving are all critical aspects of being a good team member. It is important to be open to feedback, work well with others, and take a proactive approach to resolving issues and addressing challenges. Good team members are also committed to quality, take pride in their work, and have a strong work ethic. Ultimately, being a good team member in software development means being committed to the success of the project and working collaboratively with others to achieve that success.
 
 ### CS-210 Programming Languages
-#### Project
+#### Corner Grocer Item-Tracking Program
 
 ##### Project Summary and Problem Solved
 
-- Summarize the project: 
+- The project is to build an item-tracking program for the Corner Grocer, which analyzes text records generated throughout the day, listing items purchased in chronological order from the time the store opens to the time it closes. The program must incorporate the requested functionality of providing the frequency of specific items, a list of all items with their frequency, a histogram showing the frequency of each item, and the ability to create a backup file with the accumulated data.
 
-
-- What problem was solved: 
-
+- The Corner Grocer needed a program to help them rearrange their produce section by identifying how often items were purchased. This program solves that problem by analyzing the text records generated throughout the day and providing the frequency of each item purchased.
 
 ##### What was done particularly well
 
-- 
+- The use of classes with public and private sections.
+- Implementation of maps to store and retrieve data.
 
 ##### Areas for Improvement
 
-- Where could you enhance your code:
-  
-
-- How would these improvements make your code more efficient, secure, and so on:
-  
+- The code could be enhanced by adding input validation and error handling to anticipate, detect, and respond to run-time and user errors.
+- The code could be made more efficient by optimizing data structures and algorithms.
 
 ##### Challenges and Solutions
 
-- Most challenging pieces of code:
-  
+- The implementation of the histogram was a challenging piece of code.
 
-- How the challenges were overcome:
+- The challenges were overcome by researching and experimenting with different approaches until an efficient and effective solution was found.
   
-
-- Tools and resources added to support network:
+- Various resources and tools, such as zyBooks and Visual Studio 2019, were used to support the development of the program.
   
-
 ##### Transferable Skills
 
-- Skills from this project that will be transferable to other projects or coursework:
+- Writing professional, well-documented, and readable code
+- Utilizing various programming languages to develop secure, efficient code
+- Implementing classes and maps.
   
 
 ##### Maintainability, Readability, and Adaptability
 
-- How the program was made maintainable, readable, and adaptable:
+- Industry-standard best practices were applied, such as using appropriate naming conventions and in-line comments to enhance readability and maintainability. The code was also designed to be adaptable by utilizing classes and maps, which allow for easy modification and expansion.
   
