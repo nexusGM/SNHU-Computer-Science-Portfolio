@@ -2,7 +2,7 @@
 ## Matthew Tyson
 
 ### CS-250 Software Developement Lifcycle
-#### [Sprint Review and Retrospective](./CS-250 Software Development Lifecycle/Sprint Review and Retrospective .docx)
+#### Sprint Review and Retrospective
 
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
