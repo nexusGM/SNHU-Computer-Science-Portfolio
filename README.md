@@ -99,3 +99,23 @@
 
 ### CS-230 Operating Platforms
 #### Software Design Document
+
+##### Project Summary and Problem Solved
+
+- The Gaming Room is a client that hired us, Creative Technology Solutions (CTS), to develop a web-based version of their game, Draw It or Lose It. This game is a drawing and guessing game that allows users to create and join teams and compete against each other. The game should support multiple platforms, such as Windows, Linux, and Mac OS, and have unique identifiers for each game, team, and player. The game should also have a distributed architecture that allows users to communicate and interact with each other across different networks.
+
+- To design the software for this game, I used the Unified Modeling Language (UML) class diagram to represent the domain model of the game application. I also used object-oriented programming principles to create classes that encapsulate the attributes and behaviors of the game entities. Furthermore, I used design patterns to implement the singleton pattern for the game class, the factory method pattern for the team class, and the prototype pattern for the player class.
+
+- In this document, I will explain the operating system architectures for different operating systems that the game will run on. I will also analyze the differential file system components that represent a collection of data for the game. Moreover, I will explain the functions of memory and storage management for the game application. I will also identify memory management techniques that optimize the performance and reliability of the game. Finally, I will describe distributed systems and the networks that interconnect them for the game communication and interaction.
+
+##### Developing documentation 
+
+- In developing the documentation, I ensured that it was comprehensive, well-organized, and easy to understand. I included step-by-step instructions, clear explanations, and relevant examples to guide users through the software's features and functionality. I also made sure to document any assumptions or limitations of the software to set clear expectations for users.
+
+- The design document served as a roadmap for the development process. It outlined the software's architecture, modules, data flow, and interfaces, which helped the development team understand the system's structure and functionality. It also facilitated communication among team members, ensured consistency in coding standards, and helped in identifying potential issues early in the development process.
+
+- If I were to revise a part of my work on the documents, I would focus on improving the clarity and conciseness of the instructions. I would also ensure that all relevant information, such as installation steps, configuration settings, and troubleshooting tips, are included. Additionally, I would consider incorporating visual aids, such as diagrams or screenshots, to further enhance understanding.
+
+- To interpret user needs I reviewed the current code provided and reviewed and researched the software requirements provided. If I were to do this project with real people I would have conducted thorough research, including user surveys, interviews, and usability testing. I would also have considered feedback from stakeholders to understand their requirements and preferences. Based on this information, I incorporated features and functionality into the software design that aligned with the users' needs, ensuring that the software provided a solution to their specific problems.
+
+- I followed a systematic approach to software design, including defining the problem statement, identifying requirements, creating a high-level architecture, and breaking it down into smaller components. I also utilized techniques such as UML diagrams, flowcharts, and pseudocode to visualize the design and ensure that it met the requirements.
