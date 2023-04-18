@@ -1,6 +1,8 @@
 # SNHU Computer Science Portfolio
 ## Matthew Tyson
 
+---
+
 ### CS-250 Software Developement Lifecycle
 #### Sprint Review and Retrospective
 
@@ -12,6 +14,8 @@
 
 - What does it mean to be a good team member in software development?
   - Being a good team member in software development involves many different qualities and skills. Effective communication, collaboration, and problem-solving are all critical aspects of being a good team member. It is important to be open to feedback, work well with others, and take a proactive approach to resolving issues and addressing challenges. Good team members are also committed to quality, take pride in their work, and have a strong work ethic. Ultimately, being a good team member in software development means being committed to the success of the project and working collaboratively with others to achieve that success.
+
+---
 
 ### CS-210 Programming Languages
 #### Corner Grocer Item-Tracking Program
@@ -45,11 +49,12 @@
 - Writing professional, well-documented, and readable code
 - Utilizing various programming languages to develop secure, efficient code
 - Implementing classes and maps.
-  
 
 ##### Maintainability, Readability, and Adaptability
 
 - Industry-standard best practices were applied, such as using appropriate naming conventions and in-line comments to enhance readability and maintainability. The code was also designed to be adaptable by utilizing classes and maps, which allow for easy modification and expansion.
+
+---
 
 ### CS-305 Software Security
 #### Practices for Secure Software and Vulnerability Assessment Reports
@@ -89,3 +94,8 @@
 - Expertise in using various security tools.
 - Follow coding best practices.
 - Conduct rigorous testing to ensure functional and secure code.
+
+---
+
+### CS-230 Operating Platforms
+#### Software Design Document
