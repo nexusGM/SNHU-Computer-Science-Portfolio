@@ -119,3 +119,41 @@
 - To interpret user needs I reviewed the current code provided and reviewed and researched the software requirements provided. If I were to do this project with real people I would have conducted thorough research, including user surveys, interviews, and usability testing. I would also have considered feedback from stakeholders to understand their requirements and preferences. Based on this information, I incorporated features and functionality into the software design that aligned with the users' needs, ensuring that the software provided a solution to their specific problems.
 
 - I followed a systematic approach to software design, including defining the problem statement, identifying requirements, creating a high-level architecture, and breaking it down into smaller components. I also utilized techniques such as UML diagrams, flowcharts, and pseudocode to visualize the design and ensure that it met the requirements.
+
+---
+
+### CS-320 Software Test Automation & QA
+#### Testing Using JUnit
+
+##### Code That is Functional and Secure
+
+- To ensure that my code, program, or software is functional and secure, I can use various testing techniques such as unit testing, integration testing, system testing, and security testing. I can also use tools such as code analyzers, debuggers, and code coverage tools to identify and fix errors, vulnerabilities, and bugs in my code. I can also follow coding standards and best practices to write clean, maintainable, and secure code.
+
+##### Interpreting User Needs and Integrating Them
+
+- To interpret user needs and incorporate them into a program, I can use methods such as requirements analysis, user stories, use cases, and scenarios. I can also communicate with the users and stakeholders to elicit their feedback and expectations. I can also use prototyping and user testing to validate and refine my design and implementation.
+
+##### The Approach to Design
+
+- To approach designing software, I can use various software engineering models and methodologies such as waterfall, agile, or spiral. I can also use design principles and patterns to create a modular, reusable, and scalable architecture. I can also use diagrams and documentation to communicate and document my design decisions and rationale.
+
+---
+
+### CS-255 System Analysis and Design
+#### Testing Using JUnit
+
+##### Project Summary and Problem Solved
+
+- The DriverPass project involved designing a system for a client called DriverPass. They wanted a system to facilitate the reservation and management of driving test appointments. I successfully created various UML diagrams, including use case, activity, sequence, and class diagrams, to represent the system's functionalities and structure.
+
+##### Potential Revisions
+
+- If I had to revise one part of my work, I would focus on improving the clarity and completeness of the system requirements. Providing more detailed and explicit requirements would enhance the accuracy and effectiveness of the system design.
+
+##### Interpreting User Needs
+
+- To interpret the user's needs, I thoroughly analyzed the client's business requirements document and actively communicated with stakeholders to gather additional information. I then translated those needs into concrete system features and incorporated them into the UML diagrams. Considering the user's needs is crucial because it ensures that the system is designed to fulfill their requirements and provides a positive user experience.
+
+##### The Approach
+
+- When approaching software design, I follow a systematic approach that includes understanding the problem domain, conducting thorough analysis, and utilizing appropriate design principles and techniques. In the future, I would continue to leverage techniques such as requirement gathering, prototyping, iterative design, and user feedback to refine and optimize the system design. Additionally, employing agile methodologies and collaborating closely with stakeholders and developers would contribute to a successful system design process.
