@@ -167,3 +167,21 @@
 **5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
    - The emphasis on industry standards, inline comments, and appropriate naming conventions has honed my skills in writing maintainable, readable, and adaptable code.
 
+## CS-340 Client/Server Development
+### Database and Dashboard Development for Grazioso Salvare
+
+**1. How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One.**
+   - To ensure maintainability, readability, and adaptability, I focus on clear naming conventions, modular design, and thorough inline comments. In Project One, the CRUD Python module was built to be reusable, making it easier to connect the dashboard widgets to the database in Project Two. By isolating database operations in this module, any changes to the          database structure or operations can be addressed in one place without affecting the entire system. This modular approach promotes adaptability for future expansions and ensures readability for any developer reviewing the code.
+
+**2. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?**
+   - One primary advantage of this approach is the separation of concerns, ensuring that each module or function performs a distinct role. The CRUD Python module can be repurposed for different applications in the future, allowing for a consistent database interaction pattern. This could be extended to other systems, like inventory management or user                  registration, where similar CRUD operations are needed.
+
+**3. How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.**
+   - I begin by understanding the core needs and objectives of the client. For Grazioso Salvare, the need was clear: an interactive dashboard tailored for shelter animal data. After defining the requirements, I sketched an architectural plan, detailing how each component would interact. The decision to use MongoDB and Dash by Plotly was driven by their                respective advantages in flexibility and interactivity. This approach was more client-centric than previous assignments, focusing on end-user experience and specific company needs.
+     
+**4. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?**
+   - Unlike previous courses where the primary focus might have been on algorithm efficiency or software design, this project demanded a holistic approach that encompassed user experience, database design, and server-client interactions. In future projects, I would invest time in understanding the client's domain, employ prototyping for early feedback, and            prioritize scalability and security in database design.
+
+**5. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
+   - Computer scientists solve complex problems using computational principles. Our work is pivotal in driving efficiency, accuracy, and scalability in various industries. For a company like Grazioso Salvare, the dashboard tool transforms raw data into actionable insights, aiding in better decision-making. Tailored visualizations and data interactions enable          them to quickly identify suitable animals for various rescue missions, streamlining their operations and enhancing their impact.
+
