@@ -185,3 +185,32 @@
 **5. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
    - Computer scientists solve complex problems using computational principles. Our work is pivotal in driving efficiency, accuracy, and scalability in various industries. For a company like Grazioso Salvare, the dashboard tool transforms raw data into actionable insights, aiding in better decision-making. Tailored visualizations and data interactions enable          them to quickly identify suitable animals for various rescue missions, streamlining their operations and enhancing their impact.
 
+## CS-370 Current Emerging Trends in CS
+### Exploring and Implementing Current Trends in Artificial Intelligence
+
+**Project Summary and Problem Solved**
+This project involved the creation of an intelligent agent designed to autonomously navigate through a complex maze to locate hidden treasure. Utilizing the deep Q-learning algorithm, a sophisticated reinforcement learning technique, the agent learned to make optimal decisions based on the environment's state and potential rewards. This work represents a practical application of emerging trends in artificial intelligence and machine learning, specifically in the field of autonomous decision-making and problem-solving.
+
+**Code Implementation**
+- **Given Code:** A basic framework for the maze environment and a preliminary setup for reinforcement learning tasks.
+- **Created Code:** I developed the intelligent agent's decision-making logic using the deep Q-learning algorithm. This included designing the neural network architecture for deep Q-learning, implementing the qtrain function for model training, and setting up the exploration-exploitation balance to optimize the agent's learning process.
+
+**Connecting Learning to Computer Science**
+- **What do computer scientists do, and why does it matter?** Computer scientists develop innovative solutions to complex problems using computational methods. This project exemplifies how computer science contributes to advancing artificial intelligence, showcasing the potential for machines to learn and make decisions, ultimately pushing the boundaries of what technology can achieve.
+- **Approaching Problems as a Computer Scientist:** My approach involved breaking down the problem into smaller, manageable tasks—designing the agent's learning algorithm, implementing the neural network, and iteratively improving the agent's performance. This systematic and analytical method reflects the core of computer science problem-solving.
+- **Ethical Responsibilities:** Ensuring the intelligent agent's decisions were made transparently and predictably was paramount, considering the implications of autonomous decision-making systems. This project underscored my ethical responsibility to create technology that is not only effective but also accountable and understandable to end-users and the organization.
+
+**Notable Achievements**
+- Successfully implemented a deep Q-learning model that enabled the agent to improve its navigation strategy over time, demonstrating a deep understanding of reinforcement learning principles.
+- Balanced exploration and exploitation strategies effectively, allowing the agent to learn efficiently from its environment.
+
+**Areas for Improvement**
+- Further optimization of the neural network architecture could enhance the agent's learning efficiency.
+- Expanding the agent's application to more complex environments would test and improve its adaptability and decision-making capabilities.
+
+**Transferable Skills**
+- Deep understanding of machine learning algorithms and their applications.
+- Ability to design and implement complex AI systems.
+- Ethical consideration in the development and deployment of AI technologies.
+
+
