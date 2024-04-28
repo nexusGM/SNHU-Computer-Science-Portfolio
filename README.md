@@ -167,6 +167,8 @@
 **5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?**
    - The emphasis on industry standards, inline comments, and appropriate naming conventions has honed my skills in writing maintainable, readable, and adaptable code.
 
+---
+
 ## CS-340 Client/Server Development
 ### Database and Dashboard Development for Grazioso Salvare
 
@@ -184,6 +186,36 @@
 
 **5. What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?**
    - Computer scientists solve complex problems using computational principles. Our work is pivotal in driving efficiency, accuracy, and scalability in various industries. For a company like Grazioso Salvare, the dashboard tool transforms raw data into actionable insights, aiding in better decision-making. Tailored visualizations and data interactions enable          them to quickly identify suitable animals for various rescue missions, streamlining their operations and enhancing their impact.
+
+---
+
+## CS-360 Mobile Architect & Programming
+### LeanLog App Development
+
+1. **Project Summary and Problem Solved**
+    - Developed "LeanLog", a mobile application to assist users in tracking their weight and progress towards their health goals.
+    - Designed to address the need for a user-friendly, efficient, and comprehensive tool for individuals focused on weight management.
+
+2. **User-Centered UI Design**
+    - **Screens and Features**: Implemented a minimalist interface with features like goal setting, progress tracking, and notifications.
+    - **UI Considerations**: Prioritized simplicity and accessibility to ensure ease of use. The UI includes intuitive navigation and clear visualizations of weight trends.
+    - **Design Success**: The design effectively encourages user engagement by making the tracking process straightforward and rewarding.
+
+3. **Coding Approach**
+    - Utilized Android's latest SDK to ensure optimal performance and integration.
+    - Employed MVC architecture to separate concerns, enhance maintainability, and facilitate updates.
+    - **Future Application**: These techniques can be adapted for other mobile applications to improve scalability and user experience.
+
+4. **Testing Strategy**
+    - Conducted thorough unit and integration testing to validate all functions.
+    - Used automated UI tests to ensure the app's reliability across different devices and Android versions.
+    - **Importance of Testing**: Essential for confirming the app's functionality, uncovering bugs, and refining the user experience before launch.
+
+5. **Innovation and Challenges**
+    - Faced challenges in managing efficient data storage and retrieval which was addressed by optimizing database interactions.
+    - Innovated by introducing customized notifications based on user behavior and preferences, which significantly enhanced user engagement.
+
+---
 
 ## CS-370 Current Emerging Trends in CS
 ### Exploring and Implementing Current Trends in Artificial Intelligence
@@ -212,5 +244,7 @@ This project involved the creation of an intelligent agent designed to autonomou
 - Deep understanding of machine learning algorithms and their applications.
 - Ability to design and implement complex AI systems.
 - Ethical consideration in the development and deployment of AI technologies.
+
+
 
 
